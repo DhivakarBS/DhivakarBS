@@ -418,6 +418,14 @@ An AI-powered assistant designed to answer campus-related queries, assist studen
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DhivakarBS/DhivakarBS/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
 # 🏆 GitHub Achievements
 
 <div align="center">
