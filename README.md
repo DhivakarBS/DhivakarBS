@@ -1,21 +1,27 @@
 <div align="center">
 
-# Hi 👋, I'm **Dhivakar B S**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,30&text=Dhivakar%20B%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58" width="100%" />
 
-### Software Engineer • AI & Machine Learning Enthusiast • Backend Developer
+# 👋 Hello, I'm Dhivakar
 
-<p>
-Building scalable software, intelligent AI solutions, and impactful backend systems.
-</p>
+### Software Engineer • AI & Machine Learning • Backend Development
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Engineering+scalable+software.;Building+AI-powered+solutions.;FastAPI+%7C+Python+%7C+Machine+Learning.;Always+learning.+Always+building." />
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/DhivakarBS">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/dhivakarbs">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dhivakar.kuppan2017@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Dhiva_Sekar/">
@@ -24,7 +30,15 @@ Building scalable software, intelligent AI solutions, and impactful backend syst
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=DhivakarBS&label=Profile%20Views&style=flat-square&color=0e75b6"/>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DhivakarBS&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/DhivakarBS?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/DhivakarBS?style=for-the-badge&logo=github"/>
+
+</p>
 
 </div>
 
